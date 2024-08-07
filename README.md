@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=iabdallamath/5G-Workshop-)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/5G-Workshop)
 5G Systems with MATLAB®  – A Hands-on Workshop. 
 
 This repo contains the files required to run the hands-on 5G workshop.  The "Work Scripts" files require code additions in order to run.  The "Solution Scripts" files have the required code additions. Both Work and Solution scripts need data generated from the 5G waveform generator app to be able to run to completion.
